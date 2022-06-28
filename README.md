@@ -1,6 +1,6 @@
 # Dizimo-CSF
 Projeto para controlar melhor o cadastro de novos dizimistas, e parar de utilizar fichas cadastral de papel
-@ Frameworks Utilizados
+# Frameworks Utilizados
 EntityFrameworkCore.EncryptColumn para encriptação de dados sensiveis.
 
 FluentValidation para validação das entradas de dados.
