@@ -7,6 +7,6 @@ FluentValidation para validação das entradas de dados.
 
 Microsoft.EntityFramework/EntityFrameworkCore para inserção e busca de dados no Banco de Dados.
 
-Pomelo.EntityFrameworkCore.MySqlpara conexão com o Banco de Dados.
+Pomelo.EntityFrameworkCore.MySql para conexão com o Banco de Dados.
 
 Swashbuckle.AspNetCore para documentação dos endpoints com Swagger
